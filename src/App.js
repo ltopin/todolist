@@ -13,11 +13,11 @@ class App extends Component {
       {
         id: 2,
         title: "Pintar o portao",
-        completed: false
+        completed: true
       },
       {
         id: 3,
-        title: "Dar comida pros tucuns",
+        title: "Dar comida pros cachorros",
         completed: false
       }
     ]
